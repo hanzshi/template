@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="formal.html">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="formal.html">Executive Summary</a></li>
+				<li><a href="formal2.html">Introduction</a></li>
+				<li><a href="formal3.html">Background Information on Major</a></li>
+				<li><a href="formal4.html">Communication</a></li>
+				<li><a href="formal5.html">Technology</a></li>
+				<li><a href="formal6.html">Research</a></li>
+				<li><a href="formal7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Executive Summary</h1>
+			<p>Supply Chain Management originated in the late 1980s. It is a new management thought and practice under the rapid industrial development and countries rise. Since the global competition for market change quickly, single individual enterprises can not catch the speed of market change by rely on their own resources and adjusts. In 21 century, Supply Chain Management has become the key area in the business world. Some people like to put Supply Chain and logistics in the same area, but actually these two are totally different. So, what is the difference? Effective supply chain management can bring the advantage for the company in a rat race. Understand and well done the work directed by the market is the most important basis for an enterprise to win the market competition and realize client’s value. Logistics is just a process. It is a process to make the maximum profit by organize the purchase, circulate and storage of all the original materials, parts and products in a low cost. Supply Chain Management is an advanced management technic, and it is more wide than the principle of logistics.   </p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Name goes here]</p>
+		</footer>
+	</content>
+</body>	
