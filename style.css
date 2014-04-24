@@ -1,6 +1,6 @@
 body {
-	color:#fff;
-	background:#333;
+	color:#119;
+	background:#128;
 	background-image:url("http://www.anguishasylum.com/wp-content/uploads/2011/05/Oak-island-website-background3.jpg");
 	font-family:Verdana;
 	width:960px;
@@ -26,7 +26,7 @@ main {
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:#0080ff;
 }
 
 a, a:visited {
