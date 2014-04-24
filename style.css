@@ -53,12 +53,12 @@ a:hover {
 	padding:5px;
 	margin-bottom:20px;
 	margin-right:10px;
-	height:60px;
+	height:20px;
 	width:100px;
-	text-align:center;
+	vertical-align:center;
 	font-size:13px;
 	border: 2px solid yellow;
-	border-radius:90px;
+	border-radius:60px;
 }
 
 #menu {
