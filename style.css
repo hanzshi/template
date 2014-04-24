@@ -50,12 +50,12 @@ a:hover {
 #nav li {
 	display:block;
 	float: left;
-	padding:10px;
+	padding:15px;
 	margin:10 10 10 10;
 	height:30px;
 	width:100px;
 	text-align:center;
-	font-size:20px;
+	font-size:15px;
 	border: 2px double yellow;
 	border-radius:20px;
 	
