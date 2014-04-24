@@ -57,8 +57,7 @@ a:hover {
 	width:110px;
 	text-align:center;
 	font-size:20px;
-	border: 2px double yellow
-	border-width:2px;
+	border: 2px double 2px yellow;
 	border-radius:20px;
 	
 }
