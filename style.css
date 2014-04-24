@@ -49,13 +49,13 @@ a:hover {
 
 #nav li {
 	display:block;
-	float: center;
+	float:left;
 	padding:20px;
 	margin-bottom:20px;
 	margin-right:10px;
 	height:40px;
 	width:110px;
-	vertical-align:center;
+	text-align:center;
 	font-size:20px;
 	border: 2px double yellow;
 	border-radius:20px;
