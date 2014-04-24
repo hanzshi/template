@@ -50,13 +50,13 @@ a:hover {
 #nav li {
 	display:block;
 	float: left;
-	padding:15px;
+	padding:18px;
 	margin:10 10 10 10;
 	height:30px;
 	width:100px;
-	vertical-align:middle;
+	text-align:center;
 	font-size:18px;
-	border: 2px double yellow;
+	border: 2px dotted yellow;
 	border-radius:20px;
 	
 }
