@@ -2,7 +2,7 @@ body {
 	color:#fff;
 	background:#333;
 	background-image:url("http://www.anguishasylum.com/wp-content/uploads/2011/05/Oak-island-website-background3.jpg");
-	font-family:Courier;
+	font-family:Impact;
 	width:960px;
 	margin:auto;
 }
@@ -12,6 +12,7 @@ header, main, footer {
 	clear:both;
 	margin-left:0;
 	width:960px;
+	font-family:Impact;
 	
 }
 
