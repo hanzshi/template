@@ -8,12 +8,19 @@ body {
 }
 
 
-header, main, footer {
+header,  footer {
 	clear:both;
 	margin-left:0;
 	width:960px;
 	font-family:Impact;
 	
+}
+
+main {
+	clear:both;
+	font-family:Times;
+	width:960px;
+	text-align:center;
 }
 
 header, main h1 {
